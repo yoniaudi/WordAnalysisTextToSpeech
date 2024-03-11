@@ -1,4 +1,4 @@
-#Text To Speech - Word Analysis - React App
+#Word Analysis - Text To Speech - React App
 
 #Description:
 
